@@ -2,8 +2,6 @@ function main(numOne, numTwo){
 
     var remainder;
     remainder =  numOne % numTwo;
-
-    myQuotient = numOne / numTwo;
     return remainder;
   }
   
